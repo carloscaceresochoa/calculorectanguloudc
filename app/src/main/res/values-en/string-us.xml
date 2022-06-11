@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutoriacartagena</string>
+    <string name="titulo">Area Rectangulo</string>
+    <string name="baset">Enter Base</string>
+    <string name="alt">Enter Height</string>
+    <string name="result">Res Area</string>
+    <string name="btn">Calc</string>
+</resources>

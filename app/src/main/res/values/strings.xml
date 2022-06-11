@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutoriacartagena</string>
+    <string name="titulo">Area Rectangulo</string>
+    <string name="baset">Digite la Base</string>
+    <string name="alt">Digite la Altura</string>
+    <string name="result">Resultado Area</string>
+    <string name="btn">Calcular</string>
+</resources>
